@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <defs><path id="top" d="M20 94a70 70 0 0 1 140 0"/><path id="bottom" d="M10 88a80 80 0 0 0 160 0"/></defs>
+  <circle cx="90" cy="90" r="89" fill="#00ac88"/><circle cx="90" cy="90" r="67" fill="#fff"/>
+  <g fill="#fff" font-family="Arial,sans-serif" font-weight="700" text-anchor="middle">
+    <text font-size="12.2"><textPath href="#top" startOffset="50%">경북소프트웨어마이스터고등학교</textPath></text>
+    <text font-size="10.5" letter-spacing=".2"><textPath href="#bottom" startOffset="50%">GYEONGBUK SOFTWARE MEISTER HIGH SCHOOL</textPath></text>
+  </g>
+  <g fill="none" stroke="#00ac88" stroke-width="5" stroke-linejoin="miter">
+    <path d="M90 66V42l20 10-20 10M64 70H57q-5 0-5 6v14q0 8-9 9 9 1 9 9v14q0 5 5 5h7M116 70h7q5 0 5 6v14q0 8 9 9-9 1-9 9v14q0 5-5 5h-7"/>
+    <path d="M67 70h46M76 124V95h24v21l12 12M68 126h20l-12-12"/>
+  </g>
+</svg>
